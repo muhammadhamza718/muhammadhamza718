@@ -1,1 +1,1 @@
-<a href="https://gitroll.io/profile/uMBVpNm0KObdnob2kGwvjCSxo0843" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uMBVpNm0KObdnob2kGwvjCSxo0843?theme=darkEmerald" alt="GitRoll Profile Badge"/></a>
+<img src="https://gitroll.io/api/badges/profiles/v1/uMBVpNm0KObdnob2kGwvjCSxo0843?theme=darkEmerald" alt="GitRoll Profile Badge">
