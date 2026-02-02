@@ -1,1 +1,1 @@
-<img src="https://gitroll.io/api/badges/profiles/v1/uMBVpNm0KObdnob2kGwvjCSxo0843?theme=darkEmerald" alt="GitRoll Profile Badge">
+[![GitRoll Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fgitroll.io%2Fapi%2Fbadges%2Fprofiles%2Fv1%2FuMBVpNm0KObdnob2kGwvjCSxo0843%3Ftheme%3DdarkEmerald)](https://gitroll.io/profile/uMBVpNm0KObdnob2kGwvjCSxo0843)
